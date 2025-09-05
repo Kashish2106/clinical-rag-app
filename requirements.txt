@@ -6,9 +6,9 @@ python-dotenv
 pypdf
 pytesseract
 Pillow
-PyMuPDF
+PyMuPDF==1.22.0
 sentence-transformers
-faiss-cpu
+faiss-cpu==1.7.2
 rank-bm25
 numpy
 scikit-learn
