@@ -1,14 +1,12 @@
 streamlit
-audiorecorder
 openai
-pydub
 python-dotenv
 pypdf
 pytesseract
 Pillow
 PyMuPDF==1.22.0
 sentence-transformers
-faiss-cpu==1.7.2
+faiss-cpu==1.12.0
 rank-bm25
 numpy
 scikit-learn
