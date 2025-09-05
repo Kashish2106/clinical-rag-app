@@ -1,0 +1,14 @@
+streamlit
+audiorecorder
+openai
+pydub
+python-dotenv
+pypdf
+pytesseract
+Pillow
+PyMuPDF
+sentence-transformers
+faiss-cpu
+rank-bm25
+numpy
+scikit-learn
